@@ -1,0 +1,24 @@
+Html, body{
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+
+.block1{
+	display:table;
+	height:100%;
+	margin: 0 auto;
+}
+
+.block2{
+	display:table-cell;
+	vertical-align:middle;  
+}
+
+.block2 #userForm{
+	padding:10px; 
+	background: #fff;
+	border: 1px solid #ddd;
+	text-align: left;
+	width:400px;
+}
